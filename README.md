@@ -24,27 +24,27 @@ __Russian:__ Native or Bilingual
 
 __Ukrainian:__ Native or Bilingual
 ## ▮Education
-__IT HUB - the initial web programming course__
+:mortar_board: __IT HUB - the initial web programming course__
 >Master of Computer Applications (MCA), Web Development
 2015 (Duration of training - 3 months)
 
-__Zhytomyr Ivan Franko State University__
+:mortar_board: __Zhytomyr Ivan Franko State University__
 >Master of Computer Applications (MCA)
 2009-2014
 ## ▮Employment history
- __Web / Front-end Developer | A-DIGITAL Lifard__
+:computer: __Web / Front-end Developer | A-DIGITAL Lifard__
 > February 2019 - Present
 
- __Web / Front-end Developer | Freelance__
+:computer: __Web / Front-end Developer | Freelance__
 > March 2018 - January 2019
 
-__Front-end Developer | Asabix__
+:computer: __Front-end Developer | Asabix__
 > September 2017 - January 2018
 
- __Front-end Developer | Doris Advertising__
+:computer: __Front-end Developer | Doris Advertising__
 > December 2016 - July 2017
 
- __Web Developer | Dmitriy Dimborovsky's Studio__
+:computer: __Web Developer | Dmitriy Dimborovsky's Studio__
 > March 2015 - May 2015
 ## ▮[Portfolio](https://alex-grsm.github.io/)
 
