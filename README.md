@@ -10,11 +10,11 @@ Have an understanding of OOP principles. Good front-end development skills. I us
 - Good organization and work ethic.
 ## :open_file_folder: Skilled in
 - HTML5, CSS3, SCSS, SASS.
-- Flex\Grid layout, BEM.
+- Flex/Grid layout, BEM.
 - JavaScript (ES6+), jQuery, AJAX, JSON.
 - Bootstrap, TailwindCSS.
 - Gulp, WebPack, Git.
-- Figma/Photoshop/Zeplin/Adobe XD to HTML.
+- Figma / Photoshop / Zeplin / Adobe XD to HTML.
 - PHP, MySQL.
 - Wordpress / Yii2 / Laravel / Opencart / Bitrix. 
 ## :open_file_folder: Languages
