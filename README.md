@@ -24,6 +24,9 @@ __Russian:__ Native or Bilingual
 
 __Ukrainian:__ Native or Bilingual
 ## :open_file_folder: Education
+:mortar_board: __Udemy • Company E-Learning Service Providers__
+>Deep Dive into JavaScript • June 11, 2020
+
 :mortar_board: __IT HUB - the initial web programming course__
 >Master of Computer Applications (MCA), Web Development
 2015 (Duration of training - 3 months)
