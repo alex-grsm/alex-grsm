@@ -25,7 +25,7 @@ __Russian:__ Native or Bilingual
 __Ukrainian:__ Native or Bilingual
 ## :open_file_folder: Education
 :mortar_board: __Udemy • Company E-Learning Service Providers__
->Deep Dive into JavaScript • June 11, 2020
+>[Deep Dive into JavaScript • June 11, 2020](https://www.udemy.com/certificate/UC-3cc61397-efa2-47ed-afcd-bcfd9b3e6166/)
 
 :mortar_board: __IT HUB - the initial web programming course__
 >Master of Computer Applications (MCA), Web Development
