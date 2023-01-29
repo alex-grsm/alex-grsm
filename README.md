@@ -11,12 +11,12 @@ Have an understanding of OOP principles. Good front-end development skills. I us
 ## :open_file_folder: Skilled in
 - HTML5, CSS3, SCSS, SASS.
 - Flex/Grid layout, BEM.
-- JavaScript (ES6+), jQuery, AJAX, JSON.
+- JavaScript (ES6+), jQuery.
 - Bootstrap, TailwindCSS.
 - Gulp, WebPack, Git.
-- Figma / Photoshop / Zeplin / Adobe XD to HTML.
+- Figma, Photoshop, Zeplin, Adobe XD to HTML.
+- Wordpress, Yii2, Opencart, Bitrix. 
 - PHP, MySQL.
-- Wordpress / Yii2 / Laravel / Opencart / Bitrix. 
 ## :open_file_folder: Languages
 __English:__ Conversational
 
@@ -24,6 +24,9 @@ __Russian:__ Native or Bilingual
 
 __Ukrainian:__ Native or Bilingual
 ## :open_file_folder: Education
+:mortar_board: __Udemy • Company E-Learning Service Providers__
+>[Landing the layout and creating themes on CMS WordPress • Junuary 29, 2023](https://www.udemy.com/certificate/UC-783e32a2-4593-4fe4-ba8c-40ad159b9ce4/)
+
 :mortar_board: __Udemy • Company E-Learning Service Providers__
 >[Deep Dive into JavaScript • June 11, 2020](https://www.udemy.com/certificate/UC-3cc61397-efa2-47ed-afcd-bcfd9b3e6166/)
 
