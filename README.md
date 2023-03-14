@@ -41,7 +41,7 @@ __Ukrainian:__ Native or Bilingual
 :mortar_board: __Zhytomyr Ivan Franko State University__
 >Master of Computer Applications (MCA)
 2009-2014
-## :open_file_folder: Employment history
+## :open_file_folder: Work experience
 :computer: __Web / Front-end Developer | A-DIGITAL Lifard__
 > February 2019 - Present
 
