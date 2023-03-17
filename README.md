@@ -1,5 +1,5 @@
 # 👋 My digital home [alex-grsm.github.io](https://alex-grsm.github.io/)
-Hi, I'm Alex who is a Full Stack Web Developer. 
+Hi, I'm Alex who is a Front-end Developer. 
 I have participated in project development of various complexity on different CMS/Frameworks.
 Have an understanding of OOP principles. Good front-end development skills. 
 I usually make fully responsive websites for clients. 
