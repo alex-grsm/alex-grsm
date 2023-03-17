@@ -1,9 +1,10 @@
 # 👋 My digital home [alex-grsm.github.io](https://alex-grsm.github.io/)
-Hi, I'm Alex who is a Front-end Developer. 
-I have participated in project development of various complexity on different CMS/Frameworks.
-Have an understanding of OOP principles. Good front-end development skills. 
-I usually make fully responsive websites for clients. 
-I have average knowledge of PHP and have experience with CRM pipedrive, lp-crm.
+As a front-end developer, I have a diverse range of experience working on projects of varying complexity using different CMS and frameworks. Through my work, I have developed strong front-end development skills, which enable me to create engaging and visually appealing websites and web applications.
+
+In addition to my front-end development skills, I am also experienced in working with APIs and have a good understanding of how to integrate different technologies to create seamless experiences for users. I am always eager to learn and stay up-to-date on the latest developments in the field, which allows me to adapt to new frameworks and tools as needed.
+
+Overall, I take pride in my ability to bring together design, technology, and user experience to create effective and engaging web experiences for clients. My problem-solving skills and communication abilities allow me to work effectively in teams and effectively communicate technical concepts to non-technical stakeholders.
+
 ## :open_file_folder: Reasons to hire me
 - Easy to read and SEO-friendly HTML-markup.
 - Cross-browser and high-performance.
