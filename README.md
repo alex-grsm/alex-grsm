@@ -18,7 +18,7 @@ Overall, I take pride in my ability to bring together design, technology, and us
 - JavaScript (ES6+), jQuery.
 - Bootstrap, TailwindCSS.
 - Gulp, WebPack, Git.
-- Figma, Photoshop, Zeplin, Adobe XD to HTML.
+- Figma, Photoshop, Zeplin, Adobe XD.
 - Wordpress, Yii2, Opencart, Bitrix. 
 - PHP, MySQL, API.
 ## :open_file_folder: Languages
