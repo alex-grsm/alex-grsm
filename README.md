@@ -5,13 +5,6 @@ In addition to my front-end development skills, I am also experienced in working
 
 Overall, I take pride in my ability to bring together design, technology, and user experience to create effective and engaging web experiences for clients. My problem-solving skills and communication abilities allow me to work effectively in teams and effectively communicate technical concepts to non-technical stakeholders.
 
-## :open_file_folder: Reasons to hire me
-- Easy to read and SEO-friendly HTML-markup.
-- Cross-browser and high-performance.
-- Quality Adaptive layout.
-- QA. A solid understanding of browser debugging.
-- Hard-worker, Responsible, excellent learning abilities.
-- Good organization and work ethic.
 ## :open_file_folder: Skilled in
 - HTML5, CSS3, SCSS, SASS.
 - Flex/Grid layout, BEM.
