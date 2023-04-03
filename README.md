@@ -13,7 +13,7 @@ Overall, I take pride in my ability to bring together design, technology, and us
 - Gulp, WebPack, Git.
 - Figma, Photoshop, Zeplin, Adobe XD.
 - Wordpress, Yii2, Opencart. 
-- PHP, MySQL, API.
+- PHP, MySQL, API, JSON.
 ## :open_file_folder: Languages
 __English:__ Conversational
 
