@@ -8,7 +8,7 @@ Overall, I take pride in my ability to bring together design, technology, and us
 ## :open_file_folder: Skilled in
 - HTML5, CSS3, SCSS, SASS.
 - Flex/Grid layout, BEM.
-- JavaScript (ES6+), jQuery.
+- JavaScript (ES6+), jQuery, TypeScript.
 - Bootstrap, TailwindCSS.
 - Gulp, WebPack, Git.
 - Figma, Photoshop, Zeplin, Adobe XD.
@@ -22,11 +22,11 @@ __Russian:__ Native or Bilingual
 __Ukrainian:__ Native or Bilingual
 ## :open_file_folder: Education
 :mortar_board: __Udemy • Company E-Learning Service Providers__
->[Practical JavaScript (Advanced) • February 16, 2023](https://www.udemy.com/certificate/UC-d42692fa-e525-49de-b4e8-c12cb403d721/)
+>[The Complete Modern TypeScript Course • April, 2023](https://www.udemy.com/certificate/UC-08206ad7-661b-4c83-9600-d6fed20e126d/)
 
->[Landing the layout and creating themes on CMS WordPress • Junuary 29, 2023](https://www.udemy.com/certificate/UC-783e32a2-4593-4fe4-ba8c-40ad159b9ce4/)
+>[Practical JavaScript (Advanced) • February, 2023](https://www.udemy.com/certificate/UC-d42692fa-e525-49de-b4e8-c12cb403d721/)
 
->[Deep Dive into JavaScript • June 11, 2020](https://www.udemy.com/certificate/UC-3cc61397-efa2-47ed-afcd-bcfd9b3e6166/)
+>[Landing the layout and creating themes on CMS WordPress • Junuary, 2023](https://www.udemy.com/certificate/UC-783e32a2-4593-4fe4-ba8c-40ad159b9ce4/)
 
 :mortar_board: __IT HUB - the initial web programming course__
 >Master of Computer Applications (MCA), Web Development
