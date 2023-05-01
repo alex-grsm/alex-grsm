@@ -10,7 +10,7 @@ Overall, I take pride in my ability to bring together design, technology, and us
 - Flex/Grid layout, BEM.
 - JavaScript (ES6+), jQuery, TypeScript.
 - Bootstrap, TailwindCSS.
-- Gulp, WebPack, Git.
+- Gulp, WebPack, Git, Docker.
 - Figma, Photoshop, Zeplin, Adobe XD.
 - Wordpress, Yii2, Opencart. 
 - PHP, MySQL, API, JSON.
