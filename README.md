@@ -8,7 +8,7 @@ Overall, I take pride in my ability to bring together design, technology, and us
 ## :open_file_folder: Skilled in
 - HTML5, CSS3, SCSS, SASS.
 - Flex/Grid layout, BEM.
-- JavaScript (ES6+), jQuery, TypeScript.
+- JavaScript (ES6+), jQuery, TypeScript, React.
 - Bootstrap, TailwindCSS.
 - Gulp, WebPack, Git, Docker.
 - Figma, Photoshop, Zeplin, Adobe XD.
