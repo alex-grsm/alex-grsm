@@ -8,7 +8,8 @@ Overall, I take pride in my ability to bring together design, technology, and us
 ## :open_file_folder: Skilled in
 - HTML5, CSS3, SCSS, SASS.
 - Flex/Grid layout, BEM.
-- JavaScript (ES6+), jQuery, TypeScript, React.
+- JavaScript (ES6+), jQuery, TypeScript.
+- React, Redux.
 - Bootstrap, TailwindCSS.
 - Gulp, WebPack, Git, Docker.
 - Figma, Photoshop, Zeplin, Adobe XD.
@@ -22,6 +23,8 @@ __Russian:__ Native or Bilingual
 __Ukrainian:__ Native or Bilingual
 ## :open_file_folder: Education
 :mortar_board: __Udemy • Company E-Learning Service Providers__
+>[The Complete JavaScript + React Course - From Zero to Result • May, 2023](https://www.udemy.com/certificate/UC-a8905faf-0a7c-43a0-8f34-268fb13d4ebc/)
+
 >[The Complete Modern TypeScript Course • April, 2023](https://www.udemy.com/certificate/UC-08206ad7-661b-4c83-9600-d6fed20e126d/)
 
 >[Practical JavaScript (Advanced) • February, 2023](https://www.udemy.com/certificate/UC-d42692fa-e525-49de-b4e8-c12cb403d721/)
