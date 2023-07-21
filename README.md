@@ -11,10 +11,10 @@ Overall, I take pride in my ability to bring together design, technology, and us
 - JavaScript (ES6+), jQuery, TypeScript.
 - Vue, Vuex, React, Redux.
 - Bootstrap, TailwindCSS.
-- Gulp, WebPack, Git, Docker.
-- Figma, Photoshop, Zeplin, Adobe XD.
 - Wordpress, Yii2, Opencart. 
 - PHP, MySQL, API.
+- Gulp, WebPack, Git, Docker.
+- Figma, Photoshop.
 ## :open_file_folder: Languages
 __English:__ Conversational
 
