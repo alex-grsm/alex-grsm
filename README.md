@@ -13,7 +13,7 @@ Overall, I take pride in my ability to bring together design, technology, and us
 - Bootstrap, TailwindCSS.
 - Wordpress, Yii2, Opencart. 
 - PHP, MySQL, API.
-- Gulp, WebPack, Git, Docker.
+- Gulp, WebPack, Vite, Git, Docker.
 - Figma, Photoshop.
 ## :open_file_folder: Languages
 __English:__ Conversational
