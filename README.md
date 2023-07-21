@@ -9,7 +9,7 @@ Overall, I take pride in my ability to bring together design, technology, and us
 - HTML5, CSS3, SCSS, SASS.
 - Flex/Grid layout, BEM.
 - JavaScript (ES6+), jQuery, TypeScript.
-- React, Redux.
+- Vue, Vuex, React, Redux.
 - Bootstrap, TailwindCSS.
 - Gulp, WebPack, Git, Docker.
 - Figma, Photoshop, Zeplin, Adobe XD.
