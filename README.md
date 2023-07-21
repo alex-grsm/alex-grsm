@@ -23,6 +23,8 @@ __Russian:__ Native or Bilingual
 __Ukrainian:__ Native or Bilingual
 ## :open_file_folder: Education
 :mortar_board: __Udemy • Company E-Learning Service Providers__
+>[Vue JS and Vuex Course • July, 2023](https://www.udemy.com/certificate/UC-609c28e5-456b-4494-9202-6b2947707872/)
+
 >[The Complete JavaScript + React Course • May, 2023](https://www.udemy.com/certificate/UC-a8905faf-0a7c-43a0-8f34-268fb13d4ebc/)
 
 >[The Complete Modern TypeScript Course • April, 2023](https://www.udemy.com/certificate/UC-08206ad7-661b-4c83-9600-d6fed20e126d/)
