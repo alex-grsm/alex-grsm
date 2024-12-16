@@ -1,16 +1,20 @@
 # 👋 My digital home [alex-grsm.github.io](https://alex-grsm.github.io/)
-As a front-end developer, I have a diverse range of experience working on projects of varying complexity using different CMS and frameworks. Through my work, I have developed strong front-end development skills, which enable me to create engaging and visually appealing websites and web applications.
+As a Full-Stack Developer, I have extensive experience building projects of various complexity, leveraging a wide array of CMS platforms and frameworks to meet diverse client needs.
+My expertise extends beyond Full-Stack development, as I am proficient in working with APIs and integrating multiple technologies to deliver seamless and user-friendly experiences.
+I take pride in combining design, technology, and user experience to create impactful web solutions. With strong problem-solving abilities and excellent communication skills, I work effectively within teams and excel at explaining technical concepts to non-technical stakeholders.
 
 ## :open_file_folder: Skilled in
 - HTML5, CSS3, SCSS, SASS.
 - Flex/Grid layout, BEM.
 - JavaScript (ES6+), jQuery, TypeScript.
-- Vue, Vuex, React, Redux.
+- Vue.js, Vuex, React, Redux.
 - Bootstrap, TailwindCSS.
-- Wordpress, Yii2, Opencart. 
-- PHP, MySQL, API.
-- Gulp, WebPack, Vite, Git, Docker.
-- Figma, Photoshop.
+- WordPress, Laravel, Yii2, OpenCart.
+- PHP, MySQL, APIs, REST, GraphQL.
+- Gulp, WebPack, Vite, Parcel, Git, Docker.
+- Figma, Photoshop, Zeplin, Adobe XD.
+- Jira, Asana, Visual Studio Code.
+- SEO, Web design, Web development.
 ## :open_file_folder: Languages
 __English:__ Conversational
 
