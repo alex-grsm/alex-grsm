@@ -44,7 +44,7 @@ __Ukrainian:__ Native or Bilingual
 2009-2014
 ## :open_file_folder: Work experience
 :computer: __Web / Front-end Developer | A-DIGITAL Lifard__
-> February 2019 - Present
+> February 2019 - January 2025
 
 :computer: __Web / Front-end Developer | Freelance__
 > March 2018 - Present
