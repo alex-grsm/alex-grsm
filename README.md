@@ -1,7 +1,5 @@
 # 👋 My digital home
-As a Full-Stack Developer, I have extensive experience building projects of various complexity, leveraging a wide array of CMS platforms and frameworks to meet diverse client needs.
-My expertise extends beyond Full-Stack development, as I am proficient in working with APIs and integrating multiple technologies to deliver seamless and user-friendly experiences.
-I take pride in combining design, technology, and user experience to create impactful web solutions. With strong problem-solving abilities and excellent communication skills, I work effectively within teams and excel at explaining technical concepts to non-technical stakeholders.
+
 
 __Russian:__ Native or Bilingual
 
