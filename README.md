@@ -42,7 +42,6 @@ __Ukrainian:__ Native or Bilingual
 
 :computer: __Web Developer | Dmitriy Dimborovsky's Studio__
 > March 2015 - May 2015
-## :paperclip: [Portfolio](https://alex-grsm.github.io/)
 
 
 
